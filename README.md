@@ -1,6 +1,6 @@
 # Cops - An Experimental, community driven, analytics tool aggregator for real estate markets.
 
-**Authors**:: Aliaksei Bialiauski
+**Authors**: Aliaksei Bialiauski
 Technologies: Java 17, Spring Boot 2.7.2, Apache Kafka, Cassandra, Project Reactor.
 
 ## Contents
